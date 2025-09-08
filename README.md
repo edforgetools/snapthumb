@@ -1,4 +1,4 @@
 # Snapthumb
-Free, fast, lightweight thumbnail maker.
-Branches: main (stable), dev (experimental).
-Workflow: feature/* -> dev -> main (tag).
+Free, fast YouTube thumbnail helper.  
+
+🔗 [Live Demo](https://snapthumb-seven.vercel.app)
